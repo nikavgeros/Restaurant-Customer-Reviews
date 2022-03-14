@@ -4,10 +4,8 @@ Most of the Restaurants ask reviews to the customers and based on the reviews th
 ### Content 
 The dataset consists of 1000 rows and 2 columns. Review Column consist of customer reviews and like column consist of 0 and 1. If the review is positive, 1 and if negative, 0.
 
-### Goal of the project
+### Goal 
 Apply machine learning algorithms to detect the sentiment from customers' review.
-
----
 
 ### This repository contains the following files:
 <ol>
