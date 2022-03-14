@@ -7,20 +7,17 @@ The dataset consists of 1000 rows and 2 columns. Review Column consist of custom
 ### This repository contains the following files:
 <ol>
   <li><ul>Restaurant Customer Reviews.ipynb, -- the main jupyter notebook of this project, containing 6 parts:</li>
+  <li>Data collection and cleaning</li>
+  <li>Explanatory Data Analysis on reviews</li>
+  <li>Various model fitting</li>
   <li>Models evaluation</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  </ul>
+  <li>Restaurant_Reviews.tsv --the dataset that contains 1000 observations of reviews, and likes</li>
+  <li>final_results.csv --the predictions from the models</li>
+  <li>CountVectorizer --the converter of text documents to a matrix of token counts</li>
+  <li>RandomForestClassifier --the best model in binary file</li>
 </ol>
 
-Data collection and cleaning
-Explanatory Data Analysis on reviews
-Preprocessing & feature engineering
-Various model fitting
-Models evaluation
-Business conclusion and discussion
 ---
 
 ### Classification
