@@ -21,5 +21,6 @@ The dataset consists of 1000 rows and 2 columns. Review Column consist of custom
 
 ---
 
-### Classification
-Machine learning algorithms to separate different sentiments for better business world understandings
+### Goal of the project
+Apply machine learning algorithms to detect the sentiment from customers' review
+
