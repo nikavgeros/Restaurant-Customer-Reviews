@@ -22,6 +22,12 @@ Apply machine learning algorithms to detect the sentiment from customers' review
   <li>RandomForestClassifier --the best model in binary file</li>
 </ol>
 
+### References
+Paul Deitel, Dr.Harvey Deitel - Python for Programmers_ with Big Data and Artificial Intelligence Case Studies (2019, Pearson Higher Ed)
+Aurélien Géron - Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2017, O'Reilly )
+
+---
+<i>N.Avgeros (March 2022)</li>
 
 
 
