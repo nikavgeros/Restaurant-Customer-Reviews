@@ -18,7 +18,7 @@ Apply machine learning algorithms to detect the sentiment from customers' review
   </ul>
   <li>Restaurant_Reviews.tsv --the dataset that contains 1000 observations of reviews, and likes</li>
   <li>final_results.csv --the predictions from the models</li>
-  <li>CountVectorizer --the converter of text documents to a matrix of token counts</li>
+  <li>CountVectorizer --the converter of text documents to a matrix of token counts in binary file</li>
   <li>RandomForestClassifier --the best model in binary file</li>
 </ol>
 
